@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class Student
+{
+    // Properties
+    private int id;
+    private String name;
+    private int age;
+    private static int studentCount = 0;
+
+}
